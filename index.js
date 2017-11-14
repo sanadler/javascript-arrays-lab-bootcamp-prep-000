@@ -44,6 +44,6 @@ function removeFirstKitten(){
 
 const arr = [1, 2, 3];
 
-const eachExample = () => arr.forEach(e => e);
+const mapExample = () => arr.map(e => e);
 
-console.log(eachExample());
+console.log(mapExample());
